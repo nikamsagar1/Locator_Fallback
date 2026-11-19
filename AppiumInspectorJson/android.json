@@ -1,0 +1,12 @@
+{
+  "platformName": "Android",
+  "appium:automationName": "UiAutomator2",
+  "appium:deviceName": "Android",
+  "appium:udid": "RZCX20NPDYM",
+  "appium:app": "E:\\AS2986\\Mobile_Automation_RMS\\APKs\\automation-practice.apk",
+  "appium:appPackage": "com.way2automation.medishop",
+  "appium:appActivity": "com.example.MainActivity",
+  "appium:noReset": true,
+  "appium:autoGrantPermissions": true,
+  "appium:newCommandTimeout": 300
+}
